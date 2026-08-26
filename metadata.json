@@ -1,0 +1,6 @@
+{
+  "name": "MarketGreen",
+  "description": "A vibrant, deal-driven e-commerce marketplace featuring flash deals, dynamic carousels, personalized product feeds, and mint green styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
